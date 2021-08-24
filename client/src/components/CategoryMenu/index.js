@@ -15,7 +15,7 @@ function CategoryMenu() {
 
   //const [state, dispatch] = useStoreContext();
 
-  //const { categories } = state;
+  const { categories } = state;
 
   const { loading, data: categoryData } = useQuery(QUERY_CATEGORIES);
 
