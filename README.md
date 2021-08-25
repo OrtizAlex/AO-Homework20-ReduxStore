@@ -28,3 +28,6 @@ THEN I find that the app uses Redux instead of the Context API
 ```
 
 
+## Live App
+![Redux Store Screenshot](./Screenshot.jpeg)
+[Deployed Link](https://secret-ravine-51475.herokuapp.com/)
